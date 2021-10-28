@@ -1,2 +1,0 @@
-# webTasarimOdev
-firatbar vs
